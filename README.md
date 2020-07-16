@@ -1,6 +1,6 @@
 # About me
 
-![me](https://raw.githubusercontent.com/lucasvazq/lucasvazq/gh-pages/2020-07-15-223334_1360x768_scrot.png)
+![me](https://raw.githubusercontent.com/lucasvazq/lucasvazq/gh-pages/2020-07-15-235125_1360x768_scrot.png)
 
 &nbsp;&nbsp;👨 Lucas Vazquez
 <br>&nbsp;&nbsp;📌 Living in Rafaela, from Reconquista 🇦🇷
