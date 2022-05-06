@@ -8,8 +8,7 @@ I am a versatile developer, with experience in building web platforms.<br>I like
 
 <h3>EXPERIENCE</h3>
 
-I've experience working in a private company and as a freelancer.
-I've spent most of my time as a developer with the following stacks:
+I've experience working in a private company and as a freelancer.<br>I've spent most of my time as a developer with the following stacks:
 - Python, Django, Celery and Heroku (Full-stack)
 - Python, Frappe, MariaDB and Docker (Mostly Back-end)
 - TypeScript, Next.js (React) and Tailwind CSS (Front-end)
