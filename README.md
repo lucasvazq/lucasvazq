@@ -12,9 +12,9 @@ I've experience working in a private company and as a freelancer.
 I've spent most of my time as a developer with the following stacks:
 - Python, Django, Celery and Heroku (Full-stack)
 - Python, Frappe, MariaDB and Docker (Mostly Back-end)
-- Typescript, Next.js (React) and Tailwind CSS (Front-end)
+- TypeScript, Next.js (React) and Tailwind CSS (Front-end)
 
-In general terms, I have 3 years of experience with the Python ecosystem and 1 with the Typescript one.
+In general terms, I have 3 years of experience with the Python ecosystem and 1 with the TypeScript one.
 
 <h3>MY FRIEND</h3>
 has a message for you...
