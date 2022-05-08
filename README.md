@@ -8,10 +8,17 @@ I'm a versatile developer, with experience in building web platforms.<br>I like 
 
 <h3>EXPERIENCE</h3>
 
-I've experience working in a private company and as a freelancer.<br>I've spent most of my time as a developer with the following stacks:
-- Python, Django, Celery and Heroku (Full-stack)
-- Python, Frappe, MariaDB and Docker (Mostly Back-end)
-- TypeScript, Next.js (React) and Tailwind CSS (Front-end)
+I've experience working in a private company and as a freelancer.
+
+<!--
+  There is a Hair Space U+200A character in the first row just used to align the badges.
+  https://www.compart.com/en/unicode/U+200A
+-->
+I've spent most of my time as a developer with the following stacks:
+- Django, Celery and Heroku &nbsp;<!-- Hair Spaces section begin --> <!-- Hair Spaces section end -->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python | JavaScript-Full--stack-gray?labelColor=black" alt="Full-stack with Python and JavaScript">
+- Frappe, MariaDB and Docker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python | JavaScript-Mostly Back--end-gray?labelColor=black" alt="Mostly Back-end with Python. Some Front-end with JavaScript">
+- Next.js (React) and Tailwind CSS <img src="https://img.shields.io/badge/TypeScript | SCSS-Front--end-gray?labelColor=black" alt="Front-end with TypeScript and SCSS">
+
 
 In general terms, I have 3 years of experience with the Python ecosystem and 1 with the TypeScript one.
 
