@@ -4,18 +4,22 @@
 
 <h3>ABOUT ME</h3>
 
-I'm a versatile developer, with experience in building web platforms.<br>I like accessibility, performance and robust code. In addition, I also like to help and communicate as much as I can. I usually answer questions or solve some issues on GitHub, Stack Overflow or on tech communities because that not only helps others, but also helps me.
+I'm a versatile developer, with experience in building web platforms.<br>I prioritize accessibility, performance, and writing secure, maintainable, and robust code. In addition, I also like to help and communicate whenever possible. I usually answer questions or solve some issues on GitHub, Stack Overflow or on tech communities because that not only helps others, but also helps me.
 
 <h3>EXPERIENCE</h3>
 
-I've experience working in a private company and as a freelancer.
+I have experience working in both private companies and as a freelancer.
 
-I've spent most of my time as a developer with the following stacks:
-- <img src="https://img.shields.io/badge/Python | JavaScript-Full--stack-white?labelColor=black" alt="Full-stack with Python and JavaScript"> <img src="https://img.shields.io/badge/-Django -- Celery -- Heroku-grey" alt="Django, Celery and Heroku">
-- <img src="https://img.shields.io/badge/Python | JavaScript-Full--stack-white?labelColor=black" alt="Full-stack with Python and JavaScript"> <img src="https://img.shields.io/badge/-Frappe -- MariaDB -- Docker-grey" alt="Frappe, MariaDB and Docker">
-- <img src="https://img.shields.io/badge/T ypeScript   |  S C  S S-Front--end-white?labelColor=black" alt="Front-end with TypeScript and SCSS"> <img src="https://img.shields.io/badge/-Next.js (React) -- Tailwind CSS-grey" alt="Next.js (React) and Tailwind CSS">
+I've spent most of my time as a developer working with:
 
-In general terms, I have 3 years of experience with the Python ecosystem and 1 with the TypeScript one.
+- <img src="https://img.shields.io/badge/Python-white?labelColor=black" alt="Python"> <img src="https://img.shields.io/badge/-Django [parler / tenants] -- Flask -- Celery -- Unittests -- Typing-grey" alt="Django (parler, tenants), Flask, Celery, Unittests, Typing">
+- <img src="https://img.shields.io/badge/JavaScript-white?labelColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/-TypeScript -- Next.js -- Mongoose-grey" alt="TypeScript, Next.js, Mongoose">
+
+I also have experience with:
+
+- <img src="https://img.shields.io/badge/Frontend-white?labelColor=black" alt="Frontend"> <img src="https://img.shields.io/badge/-Tailwind CSS -- Lighthouse -- SPA development-grey" alt="Tailwind CSS, Lighthouse, SPA development">
+- <img src="https://img.shields.io/badge/Infrastructure-white?labelColor=black" alt="Infrastructure"> <img src="https://img.shields.io/badge/-Docker -- Microservices -- Unix Shell -- GCP -- Heroku -- CI/CD Pipelines-grey" alt="Docker, Microservices, Unix Shell, GCP, Heroku">
+- <img src="https://img.shields.io/badge/Persistence-white?labelColor=black" alt="Persistence"> <img src="https://img.shields.io/badge/-PostgreSQL -- MongoDB-grey" alt="PostgreSQL, MongoDB">
 
 <h3>MY FRIEND</h3>
 has a message for you...
