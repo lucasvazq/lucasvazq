@@ -4,7 +4,10 @@
 
 <h3>ABOUT ME</h3>
 
-I'm a versatile developer, with experience in building web platforms.<br>I prioritize accessibility, performance, and writing secure, maintainable, and robust code. In addition, I also like to help and communicate whenever possible. I usually answer questions or solve some issues on GitHub, Stack Overflow or on tech communities because that not only helps others, but also helps me.
+I'm a versatile developer with experience in building web platforms. \
+I prioritize accessibility, performance, and writing secure, maintainable, and robust code. I also enjoy helping others and collaborating whenever possible. I love open source because contributing, supporting, and giving back to the community not only benefits others but also helps me.
+
+
 
 <h3>EXPERIENCE</h3>
 
